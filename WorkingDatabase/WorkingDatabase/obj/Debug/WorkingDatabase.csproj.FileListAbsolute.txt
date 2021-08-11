@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\WorkingDatabase\WorkingDatabase\bin\WorkingDatabase.dll.config
+C:\Users\Dell\source\repos\WorkingDatabase\WorkingDatabase\bin\WorkingDatabase.dll
+C:\Users\Dell\source\repos\WorkingDatabase\WorkingDatabase\bin\WorkingDatabase.pdb
+C:\Users\Dell\source\repos\WorkingDatabase\WorkingDatabase\obj\Debug\WorkingDatabase.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\WorkingDatabase\WorkingDatabase\obj\Debug\WorkingDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WorkingDatabase\WorkingDatabase\obj\Debug\WorkingDatabase.dll
+C:\Users\Dell\source\repos\WorkingDatabase\WorkingDatabase\obj\Debug\WorkingDatabase.pdb
